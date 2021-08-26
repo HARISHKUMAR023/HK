@@ -1,0 +1,60 @@
+body{
+	margin: 0px;
+	background-color:lightgreen ;
+	text-align: center;
+	
+	
+
+
+}
+
+.top{
+	background-color: ;
+	margin: 0px;
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+}
+h1{
+	font-size: 40px;
+	font-family: cursive;
+	color: hotpink;
+}
+p{
+	font-size:20px ;
+	font-family: cursive;
+}
+
+.About{
+background-color: blue;
+position: fixed;
+top: 0px;
+width:70px ;
+height:40px ;
+
+}
+.myphoto{
+	width: 200px;
+	height: 200px;
+	padding-top: 10px;
+
+}
+h2{
+	font-family: cursive;
+}
+hr{
+	
+	width: 100px;
+	
+	border-top: 4px dotted red;
+}
+.contack{
+	font-family: fantasy;
+
+}
+.d1{
+	background-color: orange;
+	background-size: 50px;
+
+}
