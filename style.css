@@ -1,6 +1,6 @@
 body{
 	margin: 0px;
-	background-color:lightgreen ;
+	background-color:white ;
 	text-align: center;
 	
 	
@@ -54,7 +54,51 @@ hr{
 
 }
 .d1{
-	background-color: orange;
-	background-size: 50px;
+	
+background: #d9aa34;
+  background-image: -webkit-linear-gradient(top, #d9aa34, #66b82c);
+  background-image: -moz-linear-gradient(top, #d9aa34, #66b82c);
+  background-image: -ms-linear-gradient(top, #d9aa34, #66b82c);
+  background-image: -o-linear-gradient(top, #d9aa34, #66b82c);
+  background-image: linear-gradient(to bottom, #d9aa34, #66b82c);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 11px 8px 17px;
+  text-decoration: none;
 
+
+
+}
+.button{
+	
+background: #47d934;
+  background-image: -webkit-linear-gradient(top, #47d934, #3fb82c);
+  background-image: -moz-linear-gradient(top, #47d934, #3fb82c);
+  background-image: -ms-linear-gradient(top, #47d934, #3fb82c);
+  background-image: -o-linear-gradient(top, #47d934, #3fb82c);
+  background-image: linear-gradient(to bottom, #47d934, #3fb82c);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 4px 17px 6px 20px;
+  text-decoration: none;
+
+}
+.bottom{
+
+	background-color: #07dbf2;
+	padding-top: 40px;
+}
+a{
+	color:hotpink ;
+	margin: 10px 10px;
+	font-family:fantasy ;
+	font-size: 20px;
 }
