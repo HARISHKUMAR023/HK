@@ -8,13 +8,12 @@
 body{
 	
 
-	text-align: center;
+	
 	color: black;
 	background-image:url('b2.png') ;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 0px;
-	padding-bottom: 50px;
+	
 
 
 }
@@ -22,13 +21,19 @@ body{
 	width: 200px;
 	height: 200px;
 }
-.btn{
-	text-decoration: none;
-	}
-.btn-warning{
-	text-decoration: none;
+
 }
 .gif{
 	width: 100px;
 	height: 100px;
+}
+.navbar-expand-sm{
+	padding: 0px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.navbar{
+	padding: 0px;
+	padding-bottom: 50px;
+	text-align: center;
 }
