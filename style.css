@@ -1,124 +1,32 @@
+
+.p1{
+
+	width:200px ;
+	height: 200px;
+}
+
 body{
-	margin: 0px;
-	background-color:white;
+	
+
 	text-align: center;
-	
-	
+	color: black;
+	background-image:url('b2.png') ;
+	background-repeat: no-repeat;
+	background-size: cover;
 
 
 }
-
-.top{
-	background-color: ;
-	margin: 0px;
-	margin-top: 0px;
-	padding-top: 20px;
-	padding-bottom: 10px;
-
-}
-h1{
-	font-size: 40px;
-	font-family: cursive;
-	color: red;
-}
-p{
-	font-size:20px ;
-	font-family: cursive;
-}
-
-.About{
-background-color: blue;
-position: fixed;
-top: 0px;
-width:70px ;
-height:40px ;
-
-}
-.myphoto{
+.b1{
 	width: 200px;
 	height: 200px;
-	padding-top: 10px;
-
 }
-h2{
-	font-family: cursive;
+.btn{
+	text-decoration: none;
+	}
+.btn-warning{
+	text-decoration: none;
 }
-hr{
-	
+.gif{
 	width: 100px;
-	
-	border-top: 4px dotted red;
-}
-.contack{
-	font-family: fantasy;
-
-}
-.d1{
-	
-font-family: verdana;
-  font-weight: bold;
-  color: #36EBFF !important;
-  font-size: 14px;
-  text-shadow: 1px 0px 0px #DE9564;
-  box-shadow: 1px 1px 1px #BEE2F9;
-  padding: 10px 25px;
-  border-radius: 18px;
-  border: 2px solid #A3101A;
-  background: #EE0E34;
-  background: linear-gradient(to top, #EE0E34, #CF0A32);
-}
-
-
-}
-.button{
-	
-background: #47d934;
-  background-image: -webkit-linear-gradient(top, #47d934, #3fb82c);
-  background-image: -moz-linear-gradient(top, #47d934, #3fb82c);
-  background-image: -ms-linear-gradient(top, #47d934, #3fb82c);
-  background-image: -o-linear-gradient(top, #47d934, #3fb82c);
-  background-image: linear-gradient(to bottom, #47d934, #3fb82c);
-  -webkit-border-radius: 21;
-  -moz-border-radius: 21;
-  border-radius: 21px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 28px;
-  padding: 4px 17px 6px 20px;
-  text-decoration: none;
-
-}
-.bottom{
-
-	background-color: #07dbf2;
-	padding: 5px 0;
-}
-
-
-
-
-.first{
-	color:red ;
-	margin: 10px 10px;
-	font-family:fantasy ;
-	font-size: 20px;
-	margin-bottom: 0px;
-	text-decoration: none;
-}
-.sec{
-	color:red;
-	margin: 10px 10px;
-	font-family:fantasy ;
-	font-size: 20px;
-	margin-bottom: 0px;
-	text-decoration: none;
-}
-.thr{
-
-}
-.youtube{
-	width: 70px;
-height: 70px;
-position: relative;
-top: 27px;
+	height: 100px;
 }
