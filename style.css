@@ -1,9 +1,5 @@
 
-.p1{
 
-	width:200px ;
-	height: 200px;
-}
 
 body{
 	
@@ -17,23 +13,5 @@ body{
 
 
 }
-.b1{
-	width: 200px;
-	height: 200px;
-}
 
-}
-.gif{
-	width: 100px;
-	height: 100px;
-}
-.navbar-expand-sm{
-	padding: 0px;
-	padding-bottom: 50px;
-	text-align: center;
-}
-.navbar{
-	padding: 0px;
-	padding-bottom: 50px;
-	text-align: center;
 }
